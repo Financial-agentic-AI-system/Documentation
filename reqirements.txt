@@ -1,0 +1,5 @@
+markdown-pdf
+mdit-py-plugins
+requests
+pymupdf
+matplotlib
